@@ -8,6 +8,12 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 [Connections](https://hchiam.blogspot.com/2016/11/learning-faster-and-memory-structures.html)
 
+## Practice
+
+[CtCI (Cracking the Coding Interview)](https://www.crackingthecodinginterview.com)
+
+[LeetCode](https://leetcode.com)
+
 ## Random fun
 
 [Roots](https://hchiam.blogspot.com/2017/10/mentally-finding-roots-and-squares-or.html)
