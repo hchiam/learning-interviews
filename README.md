@@ -10,6 +10,8 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 ## Practice
 
+[CPH (Competitive Programmer's Handbook)](https://github.com/pllk/cphb)
+
 [CtCI (Cracking the Coding Interview)](https://www.crackingthecodinginterview.com)
 
 [LeetCode](https://leetcode.com)
@@ -22,5 +24,5 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 [Mental](https://hchiam.blogspot.com/2017/08/google-voice-mental-temperature-converter.html) [temperature](https://hchiam.blogspot.com/2016/09/how-to-convert-temperature-quickly-in.html) [conversion](https://hchiam.blogspot.com/2015/12/how-to-convert-temperature-f-c-quickly.html)
 
-[Stop spinning your wheels at work](https://willmurphyscode.net/2016/04/06/learning-hack-recognize-and-interrupt-wheel-spinning): Can't figure out what's broken? 
+[Stop spinning your wheels at work](https://willmurphyscode.net/2016/04/06/learning-hack-recognize-and-interrupt-wheel-spinning): Can't figure out what's broken?
 **Root cause tree**. Suspect **recent** changes. **Batch questions** for hard-to-check possible causes.
