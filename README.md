@@ -8,6 +8,8 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 [Connections](https://hchiam.blogspot.com/2016/11/learning-faster-and-memory-structures.html)
 
+_**Don't get stuck:**_ In my own words. Aloud. Draw. Examples. Pseudocode. Brute force first. Manually. Patterns. Heuristic. Base case and build. Data structure alphabet.
+
 ## Practice
 
 [CPH (Competitive Programmer's Handbook)](https://github.com/pllk/cphb)
