@@ -14,7 +14,7 @@ _**Don't get stuck:**_ In your own words. Aloud. Draw. Examples. Pseudocode. Bru
 
 [CtCI (Cracking the Coding Interview)](https://www.crackingthecodinginterview.com) and [approaches](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf) and [behavioral](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_soft_skills_-_v6.pdf).
 
-[LeetCode](https://leetcode.com): practice/explanations of [fundamentals](https://leetcode.com/explore/learn) and [simulated assessments/interviews](https://leetcode.com/assessment).
+[LeetCode](https://leetcode.com): practice/explanations of [fundamentals](https://leetcode.com/explore/learn) and [simulated assessments/interviews](https://leetcode.com/assessment). Otherwise filter by rating for quality questions, or find the topic lists curated by LeetCode staff, which also have official explanations and solutions.
 
 [CPH (Competitive Programmer's Handbook)](https://github.com/pllk/cphb) and [CSES practice](https://cses.fi/problemset).
 
