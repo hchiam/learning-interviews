@@ -18,6 +18,8 @@ _**Don't get stuck:**_ In your own words. Aloud. Draw. Examples. Pseudocode. Bru
 
 [CPH (Competitive Programmer's Handbook)](https://github.com/pllk/cphb).
 
+[AlgoExpert](https://www.algoexpert.io): less questions, but more focus. No need to filter questions for quality questions/solutions/explanations like you would for LeetCode.
+
 ## Random fun
 
 [Roots](https://hchiam.blogspot.com/2017/10/mentally-finding-roots-and-squares-or.html)
