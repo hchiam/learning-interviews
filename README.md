@@ -18,7 +18,7 @@ _**Don't get stuck:**_ In your own words. Aloud. Draw. Examples. Pseudocode. Bru
 
 [CPH (Competitive Programmer's Handbook)](https://github.com/pllk/cphb).
 
-[AlgoExpert](https://www.algoexpert.io): less questions, but more focus. No need to filter questions for quality questions/solutions/explanations like you would for LeetCode.
+[AlgoExpert](https://www.algoexpert.io): less questions, but more focus. No need to filter questions for quality questions/solutions/explanations like you would for LeetCode. Curated content, explanation videos, and tips for behavioural, etc. AlgoExpert = deeper into conceptual consolidation; LeetCode = wider practice.
 
 ## Random fun
 
