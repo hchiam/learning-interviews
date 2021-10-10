@@ -2,6 +2,8 @@
 
 Just one of the things I'm learning. https://github.com/hchiam/learning
 
+## General strategies and mnemonics
+
 [AEIOU](https://hchiam.blogspot.com/2019/03/programming-problem-solving-mnemonic.html)
 
 [Visual](https://hchiam.blogspot.com/2017/02/10-programming-data-structures-and-algorithms-in-pictures.html) [reminders](https://hchiam.blogspot.com/2019/03/random-visual-mnemonics-for-programming.html)
