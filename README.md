@@ -10,7 +10,7 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 [Connections](https://hchiam.blogspot.com/2016/11/learning-faster-and-memory-structures.html)
 
-_**Don't get stuck:**_ In your own words. Aloud. Draw. Examples. Pseudocode. Brute force first. Manually. Best conceivable runtime. Patterns. Heuristic. Base case and build. Try with just one item first (even for an iterative solution). See if sorting helps you find a pattern. Run through the data structure "alphabet" (hash table, etc.). [Put some key CtCI takeaways into your mind palace](https://app.memrise.com/course/6044034/abridged-ctci-mp-71/).
+_**Don't get stuck:**_ In your own words. Aloud. Draw. Examples. Manually. Pseudocode. Brute force first. `Ot(?)` and `Os(?)`. Best conceivable runtime. Patterns. Heuristics. Base case and build. Try with just one item first (even for an iterative solution). See if sorting helps you find a pattern. Run through the data structure "alphabet" (hash table, etc.). [Put some key CtCI takeaways into your mind palace](https://app.memrise.com/course/6044034/abridged-ctci-mp-71/).
 
 ## Practice
 
