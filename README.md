@@ -22,6 +22,8 @@ _**Don't get stuck:**_ In your own words. Aloud. Draw. Examples. Manually. Pseud
 
 [AlgoExpert](https://www.algoexpert.io): less questions, but more focus. No need to filter questions for quality questions/solutions/explanations like you would for LeetCode. Curated content, explanation videos, and tips for behavioural, etc. AlgoExpert = deeper into conceptual consolidation; LeetCode = wider practice.
 
+[Clean code and code review tips](https://github.com/hchiam/random-code-tips).
+
 ## Random fun
 
 [Roots](https://hchiam.blogspot.com/2017/10/mentally-finding-roots-and-squares-or.html)
