@@ -34,3 +34,5 @@ _**Don't get stuck:**_ In your own words. Aloud. Draw. Examples. Manually. Pseud
 
 [Stop spinning your wheels at work](https://willmurphyscode.net/2016/04/06/learning-hack-recognize-and-interrupt-wheel-spinning): Can't figure out what's broken?
 **Root cause tree**. Suspect **recent** changes. **Batch questions** for hard-to-check possible causes.
+
+Special data structures and algorithms like the [splay tree](https://github.com/hchiam/learning-splay-tree), [B-tree](https://github.com/hchiam/learning-b-tree), [skip list](https://github.com/hchiam/learning-skip-list), [Bloom filter](https://github.com/hchiam/learning-bloom-filter), [union-find data structure (for sets)](https://github.com/hchiam/learning-union-find), [suffix tree/trie/array](https://github.com/hchiam/learning-suffix-tree), [LZW compression](https://github.com/hchiam/learning-lzw)
