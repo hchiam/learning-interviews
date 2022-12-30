@@ -16,7 +16,7 @@ _**Don't get stuck:**_ In your own words. Aloud. Draw. Examples. Manually. Pseud
 
 [CtCI (Cracking the Coding Interview)](https://www.crackingthecodinginterview.com) and [approaches](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf) and [behavioral](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_soft_skills_-_v6.pdf).
 
-[LeetCode](https://leetcode.com): practice/explanations of [fundamentals](https://leetcode.com/explore/learn) and [simulated assessments/interviews](https://leetcode.com/assessment). Otherwise filter by rating for quality questions, or find the topic lists curated by LeetCode staff, which also have official explanations and solutions.
+[LeetCode](https://leetcode.com): practice/explanations of [fundamentals](https://leetcode.com/explore/learn) and [simulated assessments/interviews](https://leetcode.com/assessment). Otherwise filter by rating for quality questions, or find the topic lists curated by LeetCode staff, which also have official explanations and solutions. Or just use this curated list of 100 questions to cover core concepts/techniques per category: https://leetcode.com/discuss/general-discussion/419062/List-of-LeetCode-question-to-cover-all-the-concepts-and-type-of-questions/415034
 
 [CPH (Competitive Programmer's Handbook)](https://github.com/pllk/cphb).
 
