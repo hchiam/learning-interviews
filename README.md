@@ -4,6 +4,8 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 
 ## General strategies and mnemonics
 
+Thought process is generally a more important signal than only whether you get the "right" answer in the time limit.
+
 [AEIOU](https://hchiam.blogspot.com/2019/03/programming-problem-solving-mnemonic.html)
 
 [Visual](https://hchiam.blogspot.com/2017/02/10-programming-data-structures-and-algorithms-in-pictures.html) [reminders](https://hchiam.blogspot.com/2019/03/random-visual-mnemonics-for-programming.html)
@@ -13,6 +15,8 @@ Just one of the things I'm learning. https://github.com/hchiam/learning
 _**Don't get stuck:**_ In your own words. Aloud. Draw. Examples. Manually. Pseudocode. Brute force first. `Ot(?)` and `Os(?)`. Best conceivable runtime. Patterns. Heuristics. Base case and build. Try with just one item first (even for an iterative solution). See if sorting helps you find a pattern. Run through the data structure "alphabet" (hash table, etc.). [Put some key CtCI takeaways into your mind palace](https://app.memrise.com/course/6044034/abridged-ctci-mp-71/).
 
 ## Practice
+
+[NeetCode video explanations and tips](https://www.youtube.com/playlist?list=PLot-Xpze53leF0FeHz2X0aG3zd0mr1AW_)
 
 [CtCI (Cracking the Coding Interview)](https://www.crackingthecodinginterview.com) and [approaches](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_coding_skills_-_v6.pdf) and [behavioral](https://www.crackingthecodinginterview.com/uploads/6/5/2/8/6528028/cracking_the_soft_skills_-_v6.pdf).
 
