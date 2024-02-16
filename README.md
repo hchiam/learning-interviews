@@ -8,6 +8,8 @@ Thought process is generally a more important signal than only whether you get t
 
 [AEIOU](https://hchiam.blogspot.com/2019/03/programming-problem-solving-mnemonic.html)
 
+[RCS and CARL](https://www.youtube.com/watch?v=QrmDmQ7ZivM) (instead of STAR)
+
 [Visual](https://hchiam.blogspot.com/2017/02/10-programming-data-structures-and-algorithms-in-pictures.html) [reminders](https://hchiam.blogspot.com/2019/03/random-visual-mnemonics-for-programming.html)
 
 [Connections](https://hchiam.blogspot.com/2016/11/learning-faster-and-memory-structures.html)
