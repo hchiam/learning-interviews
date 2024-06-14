@@ -46,3 +46,5 @@ Aside tip for DP (besides likely won't be asked): recursion -> repeated work -> 
 Special data structures and algorithms like the [splay tree](https://github.com/hchiam/learning-splay-tree), [B-tree](https://github.com/hchiam/learning-b-tree), [skip list](https://github.com/hchiam/learning-skip-list), [Bloom filter](https://github.com/hchiam/learning-bloom-filter), [union-find data structure (for sets)](https://github.com/hchiam/learning-union-find), [suffix tree/trie/array](https://github.com/hchiam/learning-suffix-tree), [LZW compression](https://github.com/hchiam/learning-lzw), [combinations vs permutations with/without repeats](https://github.com/hchiam/learning-combinations-vs-permutations)
 
 An example usage of bucket sort `Ot(number of buckets)`: "Campus Bikes" https://www.youtube.com/watch?v=HxYbpT3Qfy4&list=PLOAph0xkZvSv_CF1wQPeVzJ-9qXSZAIzQ
+
+https://roadmap.sh/computer-science = interactive roadmap - click to see summary descriptions and further links to reading/learning
