@@ -16,6 +16,13 @@ Thought process is generally a more important signal than only whether you get t
 
 _**Don't get stuck:**_ In your own words. Aloud. Draw. Examples. Manually. Pseudocode. Brute force first. `Ot(?)` and `Os(?)`. Best conceivable runtime. Patterns. Heuristics. Base case and build. Try with just one item first (even for an iterative solution). See if sorting helps you find a pattern. Run through the data structure "alphabet" (hash table, etc.). [Put some key CtCI takeaways into your mind palace](https://app.memrise.com/course/6044034/abridged-ctci-mp-71/).
 
+0) think of **patterns**:
+1) **Brute Force**.
+2) **Greedy**:
+    - (think of how to keep track of best answer so far in one pass through input) **OR**
+    - (think of what variables would helpful to update at each step to have final answer at end of input).
+4) Use a **Hash Table** (to **trade space for time** and as **_part_ of your answer**).
+
 Aside tip for DP (besides likely won't be asked): recursion -> repeated work -> subproblems -> choices. Some heuristics for identifying DP problems: https://interviewing.io/dynamic-programming-interview-questions#heuristics-for-identify-dp-problems and https://interviewing.io/dynamic-programming-interview-questions#common-mistakes
 
 ## Practice
